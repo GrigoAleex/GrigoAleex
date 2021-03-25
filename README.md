@@ -2,9 +2,8 @@
 
 ## I'm a Developer!
 - 🔭 I’m currently working on laravel projects!
-- 🌱 I’m currently learning flutter 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Creating a cool portfolio 😎
+- 🥅 2021 Goals: This year I am aiming for an intership
 - ⚡ Fun fact: I love bears and laughing
 
 ---
