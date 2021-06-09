@@ -44,8 +44,8 @@
 
 
 ---
-
-<img align="left" alt="Grigo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GrigoAleex&show_icons=true&hide_border=true" />
+<!-- 
+<img align="left" alt="Grigo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GrigoAleex&show_icons=true&hide_border=true" /> -->
 
 [website]: https://grigorescu.me
 [instagram]: https://www.instagram.com/aleex_grigo
