@@ -1,21 +1,12 @@
 ### Hi there, I'm Alex - aka [Grigo][website] 👋
 
+---
+
 ## I'm a Developer!
 - 🔭 I’m currently working on laravel projects!
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: This year I am aiming for an intership
 - ⚡ Fun fact: I love bears and laughing
-
----
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
 
 ---
 
@@ -42,10 +33,15 @@
 <br />
 <br />
 
-
 ---
-<!-- 
-<img align="left" alt="Grigo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GrigoAleex&show_icons=true&hide_border=true" /> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=GrigoAleex&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Grigorescu Alexandru's GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoAleex&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Grigorescu Alexandru's Most Used GitHub Languages" />
+</a>
 
 [website]: https://grigorescu.me
 [instagram]: https://www.instagram.com/aleex_grigo
