@@ -21,9 +21,9 @@
 
 ## About Me
 
-Hi! I'm a 21-year-old tech lead for 2nite, a Romanian company that sells tickets. I'm pursuing my Bachelor's in Computer Science at the Technical University of Cluj-Napoca. I'm passionate about software and hardware development and love contributing to open-source projects.
+Hi! I'm a 21-year-old tech lead at [2nite](https://2nite.ro) and [HypedRo](https://hyped-ro.com). I'm pursuing my Bachelor's in Computer Science at the Technical University of Cluj-Napoca. I'm passionate about software and hardware development and love contributing to open-source projects.
 
-I've worked as a backend developer for nearly five years, primarily using Laravel, and I also handle DevOps tasks for 2nite. Additionally, I've been involved in projects like hyped-ro.com.
+I've worked as a backend developer for nearly five years, primarily using Laravel, and I also handle DevOps tasks.
 
 You can find me enjoying a good cup of coffee when I'm not coding. Cheers!
 
